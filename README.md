@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vanshx10y
-- 👀 I’m interested in Web3,Devops,AI
+- 👀 I’m interested in Devops, AI.
 - 🌱 I’m currently learning Linux, CLoud.
 - 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 How to reach me yvansh141@gmail.com 
